@@ -1,0 +1,31 @@
+[{
+    "time_start": 1654772400,
+    "time_end": 1654858800,
+    "price": 100, 
+    "mark": "mark1"  
+},
+{
+    "time_start": 1654858800,
+    "time_end": 1654880400,
+    "price": 89, 
+    "mark": "mark1"  
+},
+{
+    "time_start": 1655053200,
+    "time_end": 1655064000,
+    "price": 79, 
+    "mark": "mark1"  
+},
+{
+    "time_start": 1655064000,
+    "time_end": 1655323200,
+    "price": 16, 
+    "mark": "mark2"  
+},
+{
+    "time_start": 1655496000,
+    "time_end": 1655755200,
+    "price": 122, 
+    "mark": "mark2"  
+}
+]
